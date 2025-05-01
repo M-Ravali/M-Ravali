@@ -1,6 +1,6 @@
 # Hi there, I'm Ravali Maddela 👋
 
-## 🌐 Full Stack Developer | Machine Learning Enthusiast | Cloud Computing Practitioner
+## 🌐 Full Stack Developer | Machine Learning Explorer | Cloud Computing Practitioner
 
 I'm a Computer Science graduate student at Saint Louis University (graduating May 2025) with a background in full-stack development, currently focusing on cloud computing and machine learning. With 2+ years of professional experience at Cognizant, I've built responsive web applications and worked with cross-functional teams to deliver customer-facing UIs and internal APIs.
 
