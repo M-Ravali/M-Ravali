@@ -4,16 +4,9 @@
 
 I'm a Computer Science graduate student at Saint Louis University (graduating May 2025) with a background in full-stack development, currently focusing on cloud computing and machine learning. With 2+ years of professional experience at Cognizant, I've built responsive web applications and worked with cross-functional teams to deliver customer-facing UIs and internal APIs.
 
-
-### 🔭 What I'm Currently Working On
-- 🎓 Completing my Master's in Computer Science (May 2025)
-- 🌱 Studying for AWS Cloud Practitioner and ML Specialty exams
-- 🗺️ "Mapping the Margins" - A geospatial analysis project visualizing climate impacts on underserved neighborhoods
-- 💼 Enhancing my portfolio with React/Node.js applications
-
 ### 👯 I'm Looking to Collaborate On
-- Open-source projects related to geospatial analysis
-- Machine learning applications with social impact
+- Open-source projects 
+- Machine learning applications 
 - Cloud infrastructure automation projects
 - Entry-level opportunities as I transition from student to professional
 
